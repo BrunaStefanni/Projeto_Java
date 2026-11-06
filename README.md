@@ -13,4 +13,5 @@ Simples - ajudar o utilizador a organizar as suas responsabilidades e atividades
 ### Progresso
 
 > Nota 1: Até o momento, criamos a Class Tarefa.java, ativamos os Construtores e adicionamos a Interface Concluível.java e concectamos com a classe filha TarefaFaculdade.java
-> Nota 1: Classe filha TarefaFaculdade publicada, escrito em cod classes filhas Projetos e Pessoal, falta ativar.
+
+> Nota 2: Classe filha TarefaFaculdade publicada, escrito em cod classes filhas Projetos e Pessoal, falta ativar.
