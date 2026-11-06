@@ -30,7 +30,7 @@ public abstract class Tarefa {
     }
 
     public String getPrazo() {
-        return prazo;
+        return prazo
     }
 
     public boolean isConcluida() {
@@ -56,7 +56,8 @@ public abstract class Tarefa {
         this.concluida = true;
     }
 
-
+    // Metodo abstrato - chama class filha para mostrar detalhes
+    public abstract void apresentarDetalhes();
 
 
 

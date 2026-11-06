@@ -15,3 +15,5 @@ Simples - ajudar o utilizador a organizar as suas responsabilidades e atividades
 > Nota 1: Até o momento, criamos a Class Tarefa.java, ativamos os Construtores e adicionamos a Interface Concluível.java e concectamos com a classe filha TarefaFaculdade.java
 
 > Nota 2: Classe filha TarefaFaculdade publicada, escrito em cod classes filhas Projetos e Pessoal, falta ativar.
+
+> Nota 3: Adc Método para chamar os detalhes das tarefas, estrutura do Menu na Class Main e Construtor de Gestor de Tarefas.

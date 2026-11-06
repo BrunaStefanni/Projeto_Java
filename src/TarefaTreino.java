@@ -12,4 +12,10 @@ public class TarefaTreino extends Tarefa implements Concluivel {
         super.concluir();
     }
 
+    @Override
+    public void apresentarDetalhes() {
+        System.out.println("Categoria: Treino");
+        System.out.println("Nome: " + getNome());
+    }
+
 }

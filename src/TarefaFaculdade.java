@@ -11,5 +11,13 @@ public class TarefaFaculdade extends Tarefa implements Concluivel {
     public void concluir() {
         super.concluir();
     }
+    
+    @Override
+    public void apresentarDetalhes() {
+        System.out.println("Categoria: Faculdade");
+        System.out.println("Nome: " + getNome());
+    }
+
+
 
 }

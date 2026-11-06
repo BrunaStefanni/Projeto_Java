@@ -12,4 +12,10 @@ public class TarefaPessoal extends Tarefa implements Concluivel {
         super.concluir();
     }
 
+    @Override
+    public void apresentarDetalhes() {
+        System.out.println("Categoria: Pessoal");
+        System.out.println("Nome: " + getNome());
+    }
+
 }
