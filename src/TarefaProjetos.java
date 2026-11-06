@@ -3,7 +3,7 @@
 
 public class TarefaProjetos extends Tarefa implements Concluivel {
 
-    public TarefaProjetos(int id, String nome, String prazo){
+    public TarefaProjetos(int id, String nome, String prazo) {
         super(id, nome, "Projetos", prazo);
     }
 
@@ -11,4 +11,5 @@ public class TarefaProjetos extends Tarefa implements Concluivel {
     public void concluir() {
         super.concluir();
     }
+
 }
