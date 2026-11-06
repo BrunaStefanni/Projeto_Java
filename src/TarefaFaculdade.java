@@ -1,5 +1,6 @@
 // Class filha
 /* Herança em Tarefa e implentação para interface concluivel */
+
 public class TarefaFaculdade extends Tarefa implements Concluivel {
 
     public TarefaFaculdade(int id, String nome, String prazo) {

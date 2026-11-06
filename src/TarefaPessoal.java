@@ -1,2 +1,15 @@
-public class TarefaPessoal {
+// Class filha
+/* Herança em Tarefa e implentação para interface concluivel */
+
+public class TarefaPessoal extends Tarefa implements Concluivel {
+
+    public TarefaPessoal(int id, String nome, String prazo) {
+        super(id, nome, "Pessoal", prazo);
+    }
+
+    @Override
+    public void concluir() {
+        super.concluir();
+    }
+
 }
