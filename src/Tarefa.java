@@ -30,7 +30,7 @@ public abstract class Tarefa {
     }
 
     public String getPrazo() {
-        return prazo
+        return prazo;
     }
 
     public boolean isConcluida() {

@@ -1,0 +1,4 @@
+1;Projetos;Projeto Intermédia UC00619;06/11/2026;true
+2;Pessoal;Clube do Livro - Juliet & Juliet;06/11/2026;false
+3;Faculdade;Aula UC606;09/11/2026;false
+4;Treino;Treino de Cardio - Luxus;07/11/2026;false

@@ -86,3 +86,5 @@ Os dados são guardados no ficheiro `tarefas.txt`, utilizando objetos `File` e m
 ---
 
 *Trabalho produzido por Bruna Leite para avaliação disciplinar de Desenvolvimento Java UC00619*
+
+> Nota: Dentro da pasta src há um segundo readme de acompanhamento do trabalho.

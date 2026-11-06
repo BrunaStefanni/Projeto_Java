@@ -147,7 +147,7 @@ public class Main {
 
                     gestor.guardarTarefas();
 
-                    System.out.println("Obrigado por utilizar o MyPlanner!");
+                    System.out.println("Obrigado por utilizar o Planner Pessoal de Bruna Leite");
                     break;
 
                 default:
