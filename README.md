@@ -10,4 +10,6 @@ Escolhi construir uma aplicação simples como um planner organizacional. Uma ap
 ## Objetivo
 Simples - ajudar o utilizador a organizar as suas responsabilidades e atividades em um único lugar.
 
+### Progresso
+
 > Nota 1: Até o momento, criamos a Class Tarefa.java, ativamos os Construtores e adicionamos a Interface Concluível.java e concectamos com a classe filha TarefaFaculdade.java
